@@ -1,5 +1,5 @@
 context:
-  version: "11.7.0"
+  version: "11.7.1"
 
 package:
   name: mocha
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/mocha/-/mocha-${{ version }}.tgz
-  sha256: c3642b91dc823521fdbc3e639ec3d5dd0a479a5603636b97ac29cbce5de703cb
+  sha256: 14f29ac4e9eeaeafc3ceea99fbcb6677e38465b082f29828301c0dc50f53adae
 
 build:
   number: 0
